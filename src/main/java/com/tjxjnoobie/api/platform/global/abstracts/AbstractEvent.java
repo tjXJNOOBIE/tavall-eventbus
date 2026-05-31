@@ -1,6 +1,6 @@
 package com.tjxjnoobie.api.platform.global.abstracts;
 
-import com.tjxjnoobie.api.platform.global.console.Log;
+import org.tavall.logging.Log;
 import com.tjxjnoobie.api.enums.*;
 import com.tjxjnoobie.api.internal.event.EventContext;
 import com.tjxjnoobie.api.internal.event.EventSerializer;
